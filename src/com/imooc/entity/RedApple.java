@@ -6,6 +6,6 @@ public class RedApple implements Apple {
 
     @Override
     public void GetCorlor(){
-        System.out.println("Red Apple");
+        System.out.println("Red Apple--");
     }
 }
